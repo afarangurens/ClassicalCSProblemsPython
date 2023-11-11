@@ -78,4 +78,3 @@ if __name__ == '__main__':
     for i in fibonacci_generator(50):
         print(i)
 
-    print(fibonacci_generator(100))
